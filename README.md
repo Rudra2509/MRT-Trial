@@ -1,2 +1,2 @@
 # MRT-Trial
-Jut a Ttial repository
+Just a Trial repository
